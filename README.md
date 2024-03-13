@@ -1,0 +1,2 @@
+# dynamo-es
+DynamoDb EventStore
